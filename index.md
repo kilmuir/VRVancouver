@@ -17,5 +17,5 @@ Ulitmately hosting on GitHub proved a bit glitchy - so I've linked a to a versio
   
 ## Screenshot
 
-<img src = 'https://github.com/kilmuir/VRVancouver/Screen Shot 2019-04-03 at 6.11.53 PM.png'>
+<img src = 'https://github.com/kilmuir/VRVancouver/screenshotvr.png'>
 

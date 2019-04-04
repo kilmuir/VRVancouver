@@ -10,7 +10,7 @@ In order to convey the two distributions on a single map, I first decided to rep
 Visual design is also an important element of interactive mapping. Roth (2017) writes: "the visual look and feel of the UI design is 'more than just icing on the cake': it sets the tone for the entire user experience". To this end, I attempted to make a map which did not sacrifice visual appeal to interactivity. I used <a href = 'http://colorbrewer2.org/' title = "Colorbrewer" target = "_blank">colorbrewer</a> to generate gradient color schemes for the two layers and I tried to use a colour scheme that is easy to look at. I chose the mapbox dark style as I found it to be the least visually intrusive of the premade mapbox styles.
 
 
-<a href = 'https://kilmuir.github.io/graffiti/graffart' title = "Gardens of Gentrification"
+<a href = 'https://kilmuir.github.io/VRVancouver/3dtrial' title = "Vertical Growth"
   target = "_blank"> See here for the final map</a>
   
 ## Screenshot

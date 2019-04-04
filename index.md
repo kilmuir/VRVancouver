@@ -1,5 +1,5 @@
 ## GEOB 472 Mapping with WebVR Assignment:
-## What and Where is Public Art?
+## Vertical Growth: Vancouver's Changing Cityscape
 
 Author: Alec Francis
 
@@ -17,5 +17,5 @@ Ulitmately hosting on GitHub proved a bit glitchy - so I've linked a to a versio
   
 ## Screenshot
 
-<img src = 'https://kilmuir.github.io/graffiti/Screen Shot 2019-03-03 at 4.12.42 PM.png'>
+<img src = 'https://github.com/kilmuir/VRVancouver/Screen Shot 2019-04-03 at 6.11.53 PM.png'>
 
